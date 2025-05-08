@@ -10,9 +10,9 @@ sites:
 status-website:
   cname: status.justlogin.com
   favicon: https://justlogin.com/wp-content/uploads/2024/12/cropped-justlogin-plane-512px-192x192.png
-  logoUrl: https://justlogin.com/wp-content/uploads/2020/09/justlogin-logo-200px.png
+  logoUrl: https://justlogin.com/wp-content/uploads/2024/12/cropped-justlogin-plane-512px-192x192.png
   name: JustLogin Status Page
-  introTitle: "JustLogin | AI-Powered HRMS Software | 25 Years Of HR Expertise"
+  introTitle: "JustLogin | AI-Powered HRMS Software"
   introMessage: This is the status page for JustLogin, an AI powered HRMS software.
   navbar:
     - title: Homepage
