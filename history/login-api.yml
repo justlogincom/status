@@ -1,7 +1,7 @@
 url: $JUSTLOGIN_LOGIN_API_URL
 status: up
 code: 200
-responseTime: 943
-lastUpdated: 2025-05-17T23:05:19.770Z
+responseTime: 875
+lastUpdated: 2025-05-17T23:15:29.038Z
 startTime: 2025-05-09T10:09:08.800Z
 generator: Upptime <https://github.com/upptime/upptime>
