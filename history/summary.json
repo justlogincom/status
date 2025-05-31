@@ -7,7 +7,7 @@
     "status": "down",
     "uptime": "90.46%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.73%",
+    "uptimeWeek": "69.72%",
     "uptimeMonth": "90.46%",
     "uptimeYear": "90.46%",
     "time": 1112,
@@ -16,7 +16,7 @@
     "timeMonth": 1112,
     "timeYear": 1112,
     "dailyMinutesDown": {
-      "2025-05-31": 919,
+      "2025-05-31": 920,
       "2025-05-30": 1440,
       "2025-05-29": 688,
       "2025-05-28": 4
@@ -45,19 +45,19 @@
     "url": "$JUSTLOGIN_COMMERCIAL_SITE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "commercial-site",
-    "status": "down",
+    "status": "up",
     "uptime": "98.33%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.33%",
     "uptimeYear": "98.33%",
     "time": 1651,
-    "timeDay": 1533,
+    "timeDay": 1530,
     "timeWeek": 1545,
     "timeMonth": 1651,
     "timeYear": 1651,
     "dailyMinutesDown": {
-      "2025-05-31": 0,
+      "2025-05-31": 1,
       "2025-05-23": 565
     }
   }
