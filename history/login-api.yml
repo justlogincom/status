@@ -1,7 +1,7 @@
 url: $JUSTLOGIN_LOGIN_API_URL
 status: down
 code: 401
-responseTime: 1065
-lastUpdated: 2025-06-09T21:50:27.895Z
+responseTime: 939
+lastUpdated: 2025-06-09T21:57:01.183Z
 startTime: 2025-05-09T10:09:08.800Z
 generator: Upptime <https://github.com/upptime/upptime>
