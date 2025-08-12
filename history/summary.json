@@ -4,18 +4,20 @@
     "url": "$JUSTLOGIN_LOGIN_PAGE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "login-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1299,
-    "timeDay": 1312,
-    "timeWeek": 1298,
-    "timeMonth": 1313,
+    "timeDay": 1296,
+    "timeWeek": 1294,
+    "timeMonth": 1312,
     "timeYear": 1299,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-12": 0
+    }
   },
   {
     "name": "Commercial Site",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 1616,
-    "timeDay": 1579,
-    "timeWeek": 1601,
-    "timeMonth": 1601,
-    "timeYear": 1616,
+    "time": 1617,
+    "timeDay": 1644,
+    "timeWeek": 1616,
+    "timeMonth": 1603,
+    "timeYear": 1617,
     "dailyMinutesDown": {
       "2025-05-31": 1,
       "2025-05-23": 565
