@@ -4,19 +4,19 @@
     "url": "$JUSTLOGIN_LOGIN_PAGE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "login-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1299,
-    "timeDay": 1296,
+    "timeDay": 1295,
     "timeWeek": 1294,
     "timeMonth": 1312,
     "timeYear": 1299,
     "dailyMinutesDown": {
-      "2025-08-12": 0
+      "2025-08-12": 6
     }
   },
   {
