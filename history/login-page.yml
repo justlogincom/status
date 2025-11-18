@@ -1,7 +1,7 @@
 url: $JUSTLOGIN_LOGIN_PAGE_URL
-status: down
-code: 500
-responseTime: 103
-lastUpdated: 2025-11-18T11:44:59.709Z
+status: up
+code: 200
+responseTime: 1245
+lastUpdated: 2025-11-18T11:51:04.459Z
 startTime: 2025-05-08T03:12:33.133Z
 generator: Upptime <https://github.com/upptime/upptime>
