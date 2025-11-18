@@ -1,7 +1,7 @@
 url: $JUSTLOGIN_COMMERCIAL_SITE_URL
-status: down
-code: 500
-responseTime: 1606
-lastUpdated: 2025-11-18T15:57:12.970Z
+status: up
+code: 200
+responseTime: 1581
+lastUpdated: 2025-11-18T16:08:39.058Z
 startTime: 2025-05-08T03:12:34.856Z
 generator: Upptime <https://github.com/upptime/upptime>
