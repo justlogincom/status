@@ -1,0 +1,10 @@
+name: AI PR Review
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    branches:
+      - 'main'
+jobs:
+  review:
+    uses: justlogincom/.github/.github/workflows/ai-pr-review.yml@main
+    secrets: inherit
