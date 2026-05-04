@@ -11,7 +11,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 1171,
-    "timeDay": 481,
+    "timeDay": 479,
     "timeWeek": 477,
     "timeMonth": 482,
     "timeYear": 1171,
@@ -37,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 1614,
-    "timeDay": 1526,
-    "timeWeek": 1498,
-    "timeMonth": 1548,
+    "timeDay": 1500,
+    "timeWeek": 1492,
+    "timeMonth": 1547,
     "timeYear": 1614,
     "dailyMinutesDown": {
       "2026-02-27": 4,
@@ -53,5 +53,41 @@
       "2025-05-31": 1,
       "2025-05-23": 565
     }
+  },
+  {
+    "name": "Expense API",
+    "url": "$JUSTLOGIN_EXPENSE_API_SWAGGER",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "expense-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1172,
+    "timeDay": 1172,
+    "timeWeek": 1172,
+    "timeMonth": 1172,
+    "timeYear": 1172,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Mobile API",
+    "url": "$JUSTLOGIN_MOBILE_API_SWAGGER",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "mobile-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 358,
+    "timeDay": 358,
+    "timeWeek": 358,
+    "timeMonth": 358,
+    "timeYear": 358,
+    "dailyMinutesDown": {}
   }
 ]
