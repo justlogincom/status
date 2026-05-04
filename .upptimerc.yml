@@ -6,6 +6,11 @@ sites:
     url: $JUSTLOGIN_LOGIN_PAGE_URL
   - name: Commercial Site
     url: $JUSTLOGIN_COMMERCIAL_SITE_URL
+  - name: Expense API
+    url: $JUSTLOGIN_EXPENSE_API_SWAGGER
+  - name: Mobile API
+    url: $JUSTLOGIN_MOBILE_API_SWAGGER
+  
 
 status-website:
   cname: status.justlogin.com
