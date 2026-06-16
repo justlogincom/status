@@ -4,6 +4,11 @@ on:
     types: [opened, synchronize, reopened]
     branches:
       - 'main'
+  # reply-to-clear (acknowledge-to-clear): clear a non-critical finding by comment.
+  pull_request_review_comment:
+    types: [created]
+  issue_comment:
+    types: [created]
 jobs:
   review:
     uses: justlogincom/.github/.github/workflows/ai-pr-review.yml@main
